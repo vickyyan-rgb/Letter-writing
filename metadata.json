@@ -1,0 +1,6 @@
+{
+  "name": "Beloved Love Letter Studio",
+  "description": "An exquisite studio for composing, styling, wax-sealing, and preserving heartfelt love letters, poems, and vows with an AI romantic muse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
